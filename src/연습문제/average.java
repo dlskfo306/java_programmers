@@ -1,6 +1,7 @@
-package 평균구하기;
+package 연습문제;
 
-public class day1018 {
+//평균구하기
+public class average {
     public double solution(int[] arr) {
         double answer = 0;
         

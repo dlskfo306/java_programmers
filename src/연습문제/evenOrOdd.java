@@ -1,6 +1,7 @@
-package 짝수와홀수;
+package 연습문제;
 
-public class day1018 {
+//짝수와 홀수
+public class evenOrOdd {
     public String solution(int num) {
         String answer = "";
         
